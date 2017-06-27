@@ -1,0 +1,25 @@
+# Site settings
+title: Marketing Me
+header-img: img/layout/main-bg.jpg
+email: sauravsingh.srv@gmail.com
+copyright_name: sauravsingh_srv
+description: "Musings of a marketing fox - SauravSingh"
+baseurl: "/markblog"
+url: ""
+twitter_username: saurav_791
+github_username:  sauravsinghsrv
+facebook_username: sauravsingh.king
+email_username: sauravsingh.srv@gmail.com 
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins: [jekyll-paginate, jekyll-feed]

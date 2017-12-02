@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tesla and India"
 subtitle:   "Why Tesla should enter Indian market today!"
-date:       2016-06-27 12:00:00
+date:       2017-06-27 12:00:00
 author:     "Saurav Singh"
 header-img: "img/tesla-and-india/tesla-and-india.jpg"
 ---

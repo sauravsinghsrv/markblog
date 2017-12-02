@@ -2,7 +2,7 @@
 layout:     post
 title:      "Marketing Plan for Dummies"
 subtitle:   "How to market an automation tool!"
-date:       2016-12-01 12:00:00
+date:       2017-12-01 12:00:00
 author:     "Saurav Singh"
 header-img: "img/autoMate/marketing_plan_for_dummies.jpg"
 ---
